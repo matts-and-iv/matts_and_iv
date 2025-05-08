@@ -1,5 +1,3 @@
-# primersitiomatts_and_iv
-<img src="https://i.makeagif.com/media/4-07-2021/huzntj.gif" style="height: 100% , width:100%">
 <h1 align="center">Hi 👋, I'm Mateo Sancho Dive</h1>
 <h3 align="center">I'm a Senior at CCCSP (Colegio Científico Costarricense sede San Pedro). I have interests in programming, phyisics and robotics, currently working on international physics olymiads.</h3>
 
@@ -27,8 +25,8 @@
 
 <h1 align="center">STATS</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=matts_and_iv" alt="ravisolanki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=matts-and-iv" alt="ravisolanki" /> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matts_and_iv&theme=gotham&show_icons=true" />
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matts-and-iv&theme=gotham&show_icons=true" />
 
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=matts_and_iv&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=matts-and-iv&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
