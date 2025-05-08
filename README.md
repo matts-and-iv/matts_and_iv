@@ -1,10 +1,6 @@
 <h1 align="center">Hola a todos 👋 Soy Mateo Sancho</h1>
 
-<div align="center">
-<a href="https://github.com/matts_and_iv">
-  <img src="https://github-readme-stats.vercel.app/api?username=matts_and_iv&show_icons=true&theme=tokyonight" height=200 />
-</a>
-</div>
+
 
 <h4 align="center">
   <b><a href="#sobre-mi">Sobre mí</a></b>
